@@ -1,0 +1,23 @@
+<module>
+	<rawname>ivrstat</rawname>
+	<name>IVRstatistics</name>
+	<version>1.0</version>
+	<publisher>Itach-soft</publisher>
+	<category>Reports</category>
+	<description>A module for IVR logging and statistics</description>
+	<depends>
+		<module>ivr ge 2.11.0.1</module>
+		<version>2.11.0alpha1</version>
+		<phpversion>5.3.0</phpversion>
+	</depends>
+	<menuitems>
+		<ivrstat>IVR statistics</ivrstat>
+	</menuitems>
+	<changelog>
+			*1.0.0.0* First Implementation
+	</changelog>
+	<info>https://www.itach.by/</info>
+	<supported>
+		<version>2.11</version>
+	</supported>
+</module>

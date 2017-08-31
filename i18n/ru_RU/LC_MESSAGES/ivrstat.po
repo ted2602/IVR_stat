@@ -1,0 +1,91 @@
+# 	Copyright 2017 Itach-soft.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-24 14:23+0000\n"
+"PO-Revision-Date: 2017-07-17 15:14+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: ivrstat.i18n.php:8
+msgid ""
+"A module for IvrStats, that allows you to set if IVR selections should be logged to the "
+"queue logs."
+msgstr ""
+"Модуль для IvrStats, что позволяет вам установить если IVR выбор должны регистрироваться в "
+"журнале очереди."
+
+#: install.php:40
+msgid "OK"
+msgstr "OK"
+
+#: ivrstat.i18n.php:4 ivrstat.i18n.php:10
+msgid "IvrStats"
+msgstr "IVR Статистика"
+
+#: page.ivrstat.php:20 ivrstat.i18n.php:6 ivrstat.i18n.php:12
+msgid "Settings"
+msgstr "Настройки"
+
+#: page.ivrstat.php:25
+msgid "Submit Changes"
+msgstr "Сохранить изменения"
+
+#: page.ivrstat.php:22
+msgid "When checked, IVR selections will be reported by IvrStats"
+msgstr "Когда флажок установлен, IVR статистика будет доступна"
+
+#: install.php:42
+msgid "already exists"
+msgstr "уже существует"
+
+#: install.php:30
+msgid "checking for ivr_logging field..."
+msgstr "Проверка поля ivr_logging..."
+
+#: install.php:26
+msgid "creating ivrstat...ok"
+msgstr "Создание ivrstat... ОК"
+
+#: uninstall.php:8
+msgid "done"
+msgstr "done"
+
+#: uninstall.php:6
+msgid "dropping table ivrstat.."
+msgstr "Удаление таблицы ivrstat..."
+
+#: install.php:9
+msgid "ivrstat table already exists, exiting"
+msgstr "ivrstat таблица уже существует, выход"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Date time"
+msgstr "Дата и время"
+
+msgid "Uniqueid"
+msgstr "UniqueID"
+
+msgid "Client CallerID"
+msgstr "Клиент CallerID"
+
+msgid "IVR selection"
+msgstr "Выбор IVR"
+
+msgid "IVR menu"
+msgstr "Меню IVR"
+
+msgid "IVR statistics settings"
+msgstr "Параметры статистики IVR"
+
+msgid "IVR Statistics"
+msgstr "IVR-статистика"
